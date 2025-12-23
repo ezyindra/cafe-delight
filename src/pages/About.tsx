@@ -50,18 +50,18 @@ const About = () => {
                 </h2>
                 <div className="space-y-4 font-body text-muted-foreground leading-relaxed">
                   <p>
-                    Indra's Cafe was born from a simple dream – to create a sanctuary 
-                    where exceptional coffee meets timeless elegance. Founded in 2020, 
-                    our cafe quickly became a beloved destination for coffee enthusiasts 
+                    Cafe delight was born from a simple dream – to create a sanctuary
+                    where exceptional coffee meets timeless elegance. Founded in 2020,
+                    our cafe quickly became a beloved destination for coffee enthusiasts
                     and casual visitors alike.
                   </p>
                   <p>
-                    Our founder, inspired by travels through the coffee regions of 
-                    Ethiopia, Colombia, and Indonesia, envisioned a space that honors 
+                    Our founder, inspired by travels through the coffee regions of
+                    Ethiopia, Colombia, and Indonesia, envisioned a space that honors
                     the rich traditions of coffee while embracing modern luxury.
                   </p>
                   <p>
-                    Today, we continue to uphold that vision, serving each cup with 
+                    Today, we continue to uphold that vision, serving each cup with
                     the same passion and dedication that started this journey.
                   </p>
                 </div>
@@ -109,8 +109,8 @@ const About = () => {
           <div className="max-w-3xl mx-auto text-center">
             <div className="text-6xl text-primary/30 mb-6">"</div>
             <blockquote className="font-display text-2xl md:text-3xl italic text-foreground/90 mb-6">
-              Coffee is not just a drink, it's a moment of pause in the chaos of life. 
-              Here at Indra's, we make sure every moment counts.
+              Coffee is not just a drink, it's a moment of pause in the chaos of life.
+              Here at Delight's we make sure every moment counts.
             </blockquote>
             <cite className="font-body text-muted-foreground text-sm uppercase tracking-wider">
               — Indra, Founder
